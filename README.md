@@ -10,7 +10,9 @@ Olhando para trás, esse trabalho se torna uma recordação especial, representa
 
 O programa em C que desenvolvi para uma pizzaria é uma aplicação completa que gerencia pedidos, estoque de ingredientes e controle de acesso para usuários do sistema. Com uma interface simples e intuitiva, o usuário pode fazer pedidos, consultar o estoque e gerenciar suas permissões de acesso. O programa tem suporte a múltiplos usuários, com diferentes níveis de permissão, incluindo um usuário administrador com acesso completo ao sistema.
 
- Além disso, o programa tem a funcionalidade de controlar automaticamente o estoque de ingredientes, reduzindo as quantidades disponíveis de produtos ao fazer um pedido. Com 1250 linhas de código, esse foi meu primeiro projeto de programação e representa uma grande conquista em meu aprendizado na área. Uma vez fiz uma limpa no meu GitHub apagando todos os repositórios e re-upando e infelizmente fiz a burrice de removar o PP' Pizzas que tinha a data do primeiro Commit meu no GitHub em 2019, só hoje vejo importância nisso. a única lembrança que ficou foi um rascunho no Email que eu iria enviar pros integrantes do grupo e esqueci lá hahah, pra manter a lembrança da data eu deixei o print do rascunho aqui nesete repositório. 
+ Além disso, o programa tem a funcionalidade de controlar automaticamente o estoque de ingredientes, reduzindo as quantidades disponíveis de produtos ao fazer um pedido. Com 1250 linhas de código, esse foi meu primeiro projeto de programação e representa uma grande conquista em meu aprendizado na área. 
+ 
+ Uma vez fiz uma limpa no meu GitHub apagando todos os repositórios e re-upando e infelizmente fiz a burrice de removar o PP' Pizzas que tinha a data do primeiro Commit meu no GitHub em 2019, só hoje vejo importância nisso. a única lembrança que ficou foi um rascunho no Email que eu iria enviar pros integrantes do grupo e esqueci lá hahah, pra manter a lembrança da data eu deixei o print do rascunho aqui nesete repositório. 
 
  ### Curiosidade
 
