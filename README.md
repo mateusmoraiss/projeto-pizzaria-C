@@ -14,14 +14,11 @@ O programa em C que desenvolvi para uma pizzaria é uma aplicação completa que
 
  ### Curiosidade
 
-O nome "PPizzas" tem uma história curiosa por trás dele! Inicialmente, o projeto surgiu durante a faculdade como um trabalho para uma pizzaria fictícia. No entanto, durante o desenvolvimento, dois dos membros do grupo, o Peterson e o Pedro, acabaram deixando o curso e perdemos contato com eles. Com um toque de humor, eu e os outros participantes decidimos combinar de forma brincalhona as iniciais dos nomes deles com "Pizzas", resultando no nome "PPizzas". Assim, o nome se tornou uma lembrança descontraída das origens do projeto e daqueles que fizeram parte dele no início! 😄🍕
+O nome "PPizzas" tem uma história curiosa por trás dele! Inicialmente, o projeto surgiu durante a faculdade como um trabalho para uma pizzaria fictícia. No entanto, durante o desenvolvimento, dois dos membros do grupo, o Peterson e o Pedro, acabaram deixando o curso e perdemos contato com eles. Com um toque de humor, eu e os outros participantes decidimos combinar de forma brincalhona as iniciais dos nomes deles com "Pizzas", resultando no nome "PP pizzas". Assim, o nome se tornou uma lembrança descontraída das origens do projeto e daqueles que fizeram parte dele no início! 😄🍕
 
 **Bon appétit** e _happy coding_!
 
 _Desenvolvido por [Mateus Morais]_
-
-É importante que o usuário leia as licenças e termos de uso contidos no repositório antes de utilizar o programa.
-https://github.com/mateusmoraiss/Projeto-de-pizzaria-em-linguagem-C/blob/main/LICENÇA-PTBR.md
 
 Copyright (c) 2019 Mateus Morais
 
